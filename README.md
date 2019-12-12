@@ -3,4 +3,4 @@
 
 + [17届山东省软件设计大赛赛后总结](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B%E6%80%BB%E7%BB%93.md)
 + [2019年  年终盘点](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/2019-12-11-my-2019.md)
-+[大学生期末考试应该怎么办？]
++ [大学生期末考试应该怎么办?](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/%E7%AA%81%E7%84%B6%E7%81%B5%E6%9C%BA%E4%B8%80%E5%8A%A8.md)
