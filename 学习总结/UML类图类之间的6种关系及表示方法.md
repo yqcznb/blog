@@ -24,7 +24,7 @@
 
 **这些关系之间的表示方法如下图所示**
 
-![pic](..\README\pic.jpg)
+![pic](./../README/pic.jpg)
 
 1. 继承（泛化）
 
