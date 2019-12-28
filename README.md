@@ -6,3 +6,4 @@
 + [大学生期末考试应该怎么办?](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/%E7%AA%81%E7%84%B6%E7%81%B5%E6%9C%BA%E4%B8%80%E5%8A%A8.md)
 + [UML类图:类之间的6种关系及表示方法](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/UML%E7%B1%BB%E5%9B%BE%E7%B1%BB%E4%B9%8B%E9%97%B4%E7%9A%846%E7%A7%8D%E5%85%B3%E7%B3%BB%E5%8F%8A%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95.md)
 + [状态图和活动图的区别](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/%E7%8A%B6%E6%80%81%E5%9B%BE%E5%92%8C%E6%B4%BB%E5%8A%A8%E5%9B%BE%E7%9A%84%E5%8C%BA%E5%88%AB.md)
++ [一看就会的vue 路由传参 params 与 query两种方式的区别](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/%E4%B8%80%E7%9C%8B%E5%B0%B1%E4%BC%9A%E7%9A%84vue%20%E8%B7%AF%E7%94%B1%E4%BC%A0%E5%8F%82%20params%20%E4%B8%8E%20query%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB.md)
