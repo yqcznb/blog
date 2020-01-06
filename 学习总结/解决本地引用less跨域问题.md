@@ -25,10 +25,8 @@ npm install -g less
 
 + 还有一个方法更简单。就是直接把less写到html里面
 
-  、、、html
-
   <!DOCTYPE html>
-  <html>
+<html>
   	<head>
   		<meta charset="UTF-8">
   		<title></title>	
@@ -51,8 +49,7 @@ npm install -g less
   		111
   	</body>
   </html>
-、、、
-
+  
 + 你要告诉它里面的是less就可以运行了，就是这么简单。
 
   
