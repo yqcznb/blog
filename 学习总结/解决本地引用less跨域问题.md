@@ -25,32 +25,32 @@ npm install -g less
 
 + 还有一个方法更简单。就是直接把less写到html里面
 
-  <!DOCTYPE html>
+
+```html
+<!DOCTYPE html>
 <html>
-  	<head>
-  		<meta charset="UTF-8">
-  		<title></title>	
-  	<style type="text/less">
-          .ccc{
-              height: 60px;
-              background-color: #ccc;
-              .left{
-                  color: green;
-              }
-              .right{
-                  color: red;
-              }
-          }
-      </style>
-  <script src="less.js"></script>
-  	</head>
-  	<body>
-  		<div class="ccc">1111111111</div>
-  		111
-  	</body>
-  </html>
-  
+	<head>
+		<meta charset="UTF-8">
+		<title></title>	
+	<style type="text/less">
+        .ccc{
+            height: 60px;
+            background-color: #ccc;
+            .left{
+                color: green;
+            }
+            .right{
+                color: red;
+            }
+        }
+    </style>
+<script src="less.js"></script>
+	</head>
+	<body>
+		<div class="ccc">1111111111</div>
+		111
+	</body>
+</html>
+```
+
 + 你要告诉它里面的是less就可以运行了，就是这么简单。
-
-  
-
