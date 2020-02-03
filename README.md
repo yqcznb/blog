@@ -16,3 +16,4 @@
 + [事件冒泡、捕获、委托是什么？](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98%EF%BC%8C%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%84%EF%BC%9F.md)
 + [vue的生命周期](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/vue%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 + [js原型和原型链](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/js%E5%8E%9F%E5%9E%8B%E3%80%81%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
++ [解决githtb打不开问题](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/github%20%E6%89%93%E4%B8%8D%E5%BC%80%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F.md)
