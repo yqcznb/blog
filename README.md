@@ -26,6 +26,8 @@
 
 4. #### [vue的生命周期](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/vue%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 
+5. #### [vue 解决v-for 循环列表生成不同背景颜色问题]([https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/vue%20%E8%A7%A3%E5%86%B3v-for%20%E5%BE%AA%E7%8E%AF%E5%88%97%E8%A1%A8%E7%94%9F%E6%88%90%E4%B8%8D%E5%90%8C%E8%83%8C%E6%99%AF%E9%A2%9C%E8%89%B2%E9%97%AE%E9%A2%98.md](https://github.com/yqcznb/blog/blob/master/学习总结/vue 解决v-for 循环列表生成不同背景颜色问题.md))
+
 ### |Git
 
 + #### [解决githtb打不开问题](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/github%20%E6%89%93%E4%B8%8D%E5%BC%80%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F.md)
