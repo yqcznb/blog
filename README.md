@@ -16,6 +16,8 @@
 
 4. #### [javaScript 中如何检测一个变量是一个 String 类型？](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/javaScript%20%E4%B8%AD%E5%A6%82%E4%BD%95%E6%A3%80%E6%B5%8B%E4%B8%80%E4%B8%AA%E5%8F%98%E9%87%8F%E6%98%AF%E4%B8%80%E4%B8%AA%20String%20%E7%B1%BB%E5%9E%8B%EF%BC%9F.md)
 
+5. #### [typeof运算符是百分之百安全的，永远不会报错？](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/typeof%E8%BF%90%E7%AE%97%E7%AC%A6%E6%98%AF%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE%E5%AE%89%E5%85%A8%E7%9A%84%EF%BC%8C%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E6%8A%A5%E9%94%99%EF%BC%9F.md)
+
 ### |**Vue**
 
 1. #### [一看就会的vue 路由传参 params 与 query两种方式的区别](https://github.com/yqcznb/blog/blob/master/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/%E4%B8%80%E7%9C%8B%E5%B0%B1%E4%BC%9A%E7%9A%84vue%20%E8%B7%AF%E7%94%B1%E4%BC%A0%E5%8F%82%20params%20%E4%B8%8E%20query%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB.md)
